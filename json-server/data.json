@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about racial injustice and moral growth in the American South.",
+      "price": 7.99
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "description": "A story of wealth, decadence, and the American Dream in the 1920s.",
+      "price": 10.99
+    },
+    {
+      "id": "4",
+      "title": "One Hundred Years of Solitude",
+      "description": "A landmark novel in magical realism detailing the Buendía family's history.",
+      "price": 12.99
+    },
+    {
+      "id": "5",
+      "title": "Moby Dick",
+      "description": "An epic tale of Captain Ahab's obsession with hunting the white whale.",
+      "price": 11.99
+    },
+    {
+      "id": "6",
+      "title": "Pride and Prejudice",
+      "description": "A classic novel exploring themes of love, social class, and individuality.",
+      "price": 8.99
+    },
+    {
+      "id": "7",
+      "title": "The Catcher in the Rye",
+      "description": "A novel about teenage rebellion and the struggles of growing up.",
+      "price": 6.99
+    }
+  ]
+}

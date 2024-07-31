@@ -1,0 +1,70 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+      "price": 9.99
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about racial injustice and moral growth in the American South.",
+      "price": 7.99
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "description": "A story of wealth, decadence, and the American Dream in the 1920s.",
+      "price": 10.99
+    },
+    {
+      "id": "4",
+      "title": "One Hundred Years of Solitude",
+      "description": "A landmark novel in magical realism detailing the Buendía family's history.",
+      "price": 12.99
+    },
+    {
+      "id": "5",
+      "title": "Moby Dick",
+      "description": "An epic tale of Captain Ahab's obsession with hunting the white whale.",
+      "price": 11.99
+    },
+    {
+      "id": "6",
+      "title": "Pride and Prejudice",
+      "description": "A classic novel exploring themes of love, social class, and individuality.",
+      "price": 8.99
+    },
+    {
+      "id": "7",
+      "title": "The Catcher in the Rye",
+      "description": "A novel about teenage rebellion and the struggles of growing up.",
+      "price": 6.99
+    },
+    {
+      "id": "8",
+      "title": "Brave New World",
+      "description": "A dystopian novel that explores a future society driven by technology and conformity.",
+      "price": 9.49
+    },
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "description": "A fantasy novel about Bilbo Baggins's adventure to reclaim a lost kingdom.",
+      "price": 10.49
+    },
+    {
+      "id": "10",
+      "title": "Fahrenheit 451",
+      "description": "A novel depicting a future society where books are banned and burned.",
+      "price": 8.49
+    },
+    {
+      "id": "4a78",
+      "title": "zs",
+      "description": "adddddddd",
+      "price": "23"
+    }
+  ]
+}
