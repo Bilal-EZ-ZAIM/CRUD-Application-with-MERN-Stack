@@ -38,6 +38,6 @@ Ce projet est une application CRUD (Create, Read, Update, Delete) développée a
 ### Cloner le Référentiel
 
 ```bash
-git clone https://github.com/ton-utilisateur/ton-repository.git
-cd ton-repository
+git clone git remote add origin https://github.com/Bilal-EZ-ZAIM/CRUD-Application-with-MERN-Stack.git
+cd CRUD-Application-with-MERN-Stack
 ```
